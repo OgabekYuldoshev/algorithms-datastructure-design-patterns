@@ -18,6 +18,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@jest/globals": "^29.7.0"
+    "@jest/globals": "^29.7.0",
+    "reflect-metadata": "^0.2.2"
   }
 }
